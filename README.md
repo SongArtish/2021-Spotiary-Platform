@@ -56,6 +56,8 @@ urllib3==1.26.2
 **과제**
 
 - `jwt_token`을 서버에 요청하면 `404 Errror`가 발생한다.
+- `Django` `setting.py`의 `Secret Key` 관리하기
+- 
 
 
 
